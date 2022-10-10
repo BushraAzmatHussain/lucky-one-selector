@@ -1,0 +1,75 @@
+[
+    {
+        "id": "1",
+        "name": "Eyeglass",
+        "price": "550", 
+        "img" : "https://i.ibb.co/jzNpTgn/eyeglasses-new.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Eye-wear",
+        "price": "360", 
+        "img" : "https://i.ibb.co/jgxXtp9/eyeglasses-wear-new.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Pro-glass",
+        "price": "350", 
+        "img" : "https://i.ibb.co/G7mrq1R/G2-new.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Sunglass",
+        "price": "540", 
+        "img" : "https://i.ibb.co/8dq6fG8/sunglasses-isolated-white-new.jpg"
+    },
+    {
+        "id": "5",
+        "name": "Sun-protector-glass",
+        "price": "610", 
+        "img" : "https://i.ibb.co/zmNkxJF/sunglasses-new.jpg"
+    },
+    {
+        "id": "6",
+        "name": "Sunny-day-glass",
+        "price": "460", 
+        "img" : "https://i.ibb.co/82rtN4V/sunglass4-new.jpg"
+    },
+    {
+        "id": "7",
+        "name": "Sunglass-for-protection",
+        "price": "650", 
+        "img" : "https://i.ibb.co/fCx8ZP9/sunglass3-new.jpg"
+    },
+    {
+        "id": "8",
+        "name": "Sunglass-isolate",
+        "price": "490", 
+        "img" : "https://i.ibb.co/N2Zj8SD/sunglass2-new.jpg"
+    },
+    {
+        "id": "9",
+        "name": "Sun-Protector",
+        "price": "500", 
+        "img" : "https://i.ibb.co/HrHL83h/sunglass-new.jpg"
+    },
+    {
+        "id": "10",
+        "name": "Plus-glass",
+        "price": "540", 
+        "img" : "https://i.ibb.co/q1yphLX/G5-new.jpg"
+    },
+    {
+        "id": "11",
+        "name": "Zoom-glass",
+        "price": "510", 
+        "img" : "https://i.ibb.co/7b7TB6L/G3-new.jpg"
+    },
+    {
+        "id": "12",
+        "name": "Glass-wear",
+        "price": "380", 
+        "img" : "https://i.ibb.co/Gd1q8YQ/G7-new.jpg"
+    }
+    
+]
