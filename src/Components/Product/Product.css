@@ -1,7 +1,7 @@
 .product{
     width: 360px;
     height: 410px;
-    border: 2px solid cyan;
+    border: 3px solid cyan;
     border-radius: 8px;
     position: relative;
     
@@ -30,12 +30,18 @@
     background-color: bisque;
     position: absolute;
     bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     
 }
 .btn-cart:hover{
     background-color: rgb(252, 178, 178);
 }
-.btn-text{
+
+.btn-cart .btn-text{
+    padding: 8px;
+    margin: 5px;
     font-weight: bold;
     font-size: 18px;
 }
